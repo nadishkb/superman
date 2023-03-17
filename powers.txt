@@ -1,3 +1,6 @@
 fly
 shock
 eye laser
+fire power
+teleport
+injury resistant
